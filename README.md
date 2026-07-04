@@ -46,10 +46,19 @@ This project demonstrates Python GUI programming using Tkinter along with basic 
 ### Generated Bill
 
 <p align="center">
-  <img src="Images/BillGenerated.png" width="900">
+  <img src="Images/BillGenerated.png" width="750">
 </p>
 
 ---
+
+### Project Demo
+
+<p align="center">
+  <img src="Images/Demo.gif" width="900">
+</p>
+
+---
+
 
 ## 📂 Project Structure
 
@@ -65,7 +74,7 @@ Python-Grocery-Billing-System
 │   └── Demo.gif
 │
 ├── Documentation
-│   └── PWP_MicroProject_Report.pdf
+│   └── Grocery Billing System Project Report.pdf
 │
 ├── README.md
 └── LICENSE
