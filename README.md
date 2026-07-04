@@ -46,7 +46,7 @@ This project demonstrates Python GUI programming using Tkinter along with basic 
 ### Generated Bill
 
 <p align="center">
-  <img src="Images/BillGenerated.png" width="750">
+  <img src="Images/BillGenerated.png" width="600">
 </p>
 
 ---
