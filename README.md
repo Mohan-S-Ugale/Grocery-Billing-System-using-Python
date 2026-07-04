@@ -68,8 +68,8 @@ Python-Grocery-Billing-System
 │   └── PWP_MicroProject_Report.pdf
 │
 ├── README.md
-├── LICENSE
-└── requirements.txt
+└── LICENSE
+
 ```
 
 ---
