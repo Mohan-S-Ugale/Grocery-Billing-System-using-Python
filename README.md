@@ -88,13 +88,13 @@ Python-Grocery-Billing-System
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Python-Grocery-Billing-System.git
+git clone https://github.com/Mohan-S-Ugale/Grocery-Billing-System-using-Python.git
 ```
 
 ### Navigate to the Project Folder
 
 ```bash
-cd Python-Grocery-Billing-System
+cd Grocery-Billing-System-using-Python
 ```
 
 ### Run the Application
